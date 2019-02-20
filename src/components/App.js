@@ -128,8 +128,8 @@ class App extends Component {
 				}
 				{
 					!isHidden && <div className="landing-box">
-									<h1>What's your Spirit Fruit?</h1>
-									<button className="start-quiz-btn" onClick={this.handleQuizStart.bind(this)}>Start</button>
+									<h1>Fruitify Me!</h1>
+									<button className="start-quiz-btn" onClick={this.handleQuizStart.bind(this)}>START</button>
 								</div>
 				}	
 				{
